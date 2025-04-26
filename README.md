@@ -20,5 +20,5 @@ Feito por Clayton Liberatori Gomes
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/furia-bot.git
+git clone https://github.com/eddie478/furia-bot.git
 cd furia-bot
